@@ -1,0 +1,24 @@
+{
+  "name": "cnab-js",
+  "version": "1.0.0",
+  "description": "Pacote node de construtores de arquivos do padrão CNAB para facilitar a integração de plataformas digitais com Bancos Brasileiros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juni127/cnab-js.git"
+  },
+  "keywords": [
+    "Banco",
+    "Pagamentos",
+    "Integracao"
+  ],
+  "author": "Reinaldo A. Junior",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/juni127/cnab-js/issues"
+  },
+  "homepage": "https://github.com/juni127/cnab-js#readme"
+}
